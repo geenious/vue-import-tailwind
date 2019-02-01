@@ -7,6 +7,9 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import colors from './colors'
+
+console.log(colors())
 
 export default {
   name: 'app',
